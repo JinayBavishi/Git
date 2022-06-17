@@ -2,7 +2,7 @@
 int main()
 {
     int a;
-    printf("Enter the No. of day from 1-7: \n");
+    printf("Enter the No. of day from 1-7 only: \n");
     scanf("%d", &a);
     switch(a)
     {
